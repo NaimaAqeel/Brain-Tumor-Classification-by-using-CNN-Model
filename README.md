@@ -13,7 +13,7 @@ The model is trained on MRI images to help automate the detection of brain tumor
 
 
 ##  Dataset
-
+* Source: Kaggle Dataset 
 * Total images: **3000** (1500 with tumor, 1500 without tumor)
 * Size after preprocessing: **128x128 RGB images**
 * Split: **80% training** / **20% testing**
